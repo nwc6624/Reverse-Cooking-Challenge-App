@@ -14,6 +14,7 @@ By converting it into a PWA, the app will:
 
 ---
 
+
 ## **Technologies We Will Use**
 
 
