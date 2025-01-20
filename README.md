@@ -22,6 +22,7 @@ By converting it into a PWA, the app will:
 
 
 
+
 ### **1. Vite**
 - **Purpose:** Build tool for fast development and optimized production builds.
 - **Key Features:** Hot Module Replacement (HMR), ESM-based builds for speed.
