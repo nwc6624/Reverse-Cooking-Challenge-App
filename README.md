@@ -73,6 +73,9 @@ By converting it into a PWA, the app will:
 
 ---
 
+
+
+
 ## **Conclusion**
 The Reverse Cooking Challenge App will use a robust tech stack, including modern frontend tools (Vite, React), backend frameworks (Node.js, Express), and PWA technologies (service workers, manifest files) to create an engaging, performant experience for users. By combining AWS S3, Cloudflare CDN, and MongoDB for data storage and delivery, the app will be highly scalable and fast across devices.
 
