@@ -9,6 +9,7 @@ This README provides a high-level overview of the **Reverse Cooking Challenge Ap
 ## **Project Overview**
 The Reverse Cooking Challenge App is a web application where users upload photos of meals and receive fun challenges to guess the original ingredients and recipes. The app aims to deliver an engaging, interactive experience for users across both desktop and mobile platforms.
 
+
 By converting it into a PWA, the app will:
 - Be installable on mobile and desktop for a native app-like experience.
 - Function offline, providing cached content even when the user has no internet connection.
