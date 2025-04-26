@@ -17,6 +17,7 @@ By converting it into a PWA, the app will:
 
 
 
+
 - Be installable on mobile and desktop for a native app-like experience.
 - Function offline, providing cached content even when the user has no internet connection.
 - Offer fast performance with smooth user interactions.
